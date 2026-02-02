@@ -1,4 +1,4 @@
-#**Security Solution for Healthcare Infrastructure**
+# Security Solution for Healthcare Infrastructure
 
 ## Team Members:
 
